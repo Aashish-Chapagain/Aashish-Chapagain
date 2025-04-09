@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Coffee and Codes
 Here are some ideas to get you started:
 
@@ -51,4 +51,4 @@ Here are the core technologies I work with:
 
 
 - 😄 Pronouns: .he/him.
-- 
+
