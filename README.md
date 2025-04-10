@@ -1,10 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Aashish-Chapagain&label=Profile%20views&color=0e75b6&style=flat" alt="Aashish-Chapagain" /> </p>
 
-<h1 align="left">Hi, I'm Amrit!</h1>
+<h1 align="left">Hi, NPC here</h1>
 
 ###
 
-<p align="left">I am an open-source enthusiast and dedicated programmer with a passion for crafting elegant and efficient code.</p>
+<p align="left">Wanderer fall into circuit buscuits figuring to get outside someday.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2006.<br>📚 I'm currently learning Lua, Rust.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact: World first developer was a women!</p>
+<p align="left">✨ Coffee and Code.<br>📚 sucker of ml and python.<br>🎯 Goals: Unbeatable .</p>
 
 ###
 
@@ -32,9 +32,7 @@
   </a>
   
 
-  <a href="https://ko-fi.com/void44404#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="" alt="ko-fi logo"  />
-  </a>
+ 
 </div>
 
 ###
